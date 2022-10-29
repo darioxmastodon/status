@@ -6,8 +6,6 @@ runner: "[self-hosted]"
 sites:
   - name: Mastodon
     url: https://dariox.club
-    expectedStatusCodes:
-      - 200
   - name: Media
     url: http://assets.dariox.club
     expectedStatusCodes:
