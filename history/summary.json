@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dariox.club.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1199,
-    "timeDay": 1419,
-    "timeWeek": 1276,
-    "timeMonth": 1199,
-    "timeYear": 1199,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1200,
+    "timeDay": 1228,
+    "timeWeek": 1239,
+    "timeMonth": 1200,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2022-10-29": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 220,
-    "timeWeek": 151,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 125,
+    "timeDay": 47,
+    "timeWeek": 139,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
