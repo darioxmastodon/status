@@ -10,7 +10,7 @@ sites:
     url: email-smtp.ap-southeast-2.amazonaws.com
     port: 587
   - name: Media
-    url: http://assets.dariox.club
+    url: http://d2xtlv1sdg7gxk.cloudfront.net
     expectedStatusCodes:
       - 200
       - 404
