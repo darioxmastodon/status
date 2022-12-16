@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 972,
-    "timeDay": 683,
-    "timeWeek": 736,
-    "timeMonth": 836,
-    "timeYear": 972,
+    "time": 969,
+    "timeDay": 764,
+    "timeWeek": 749,
+    "timeMonth": 846,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2022-10-29": 20
     }
@@ -31,16 +31,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 182,
-    "timeWeek": 180,
-    "timeMonth": 217,
+    "timeDay": 201,
+    "timeWeek": 185,
+    "timeMonth": 210,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
     "name": "Media",
-    "url": "http://assets.dariox.club",
-    "icon": "https://icons.duckduckgo.com/ip3/assets.dariox.club.ico",
+    "url": "http://d2xtlv1sdg7gxk.cloudfront.net",
+    "icon": "https://icons.duckduckgo.com/ip3/d2xtlv1sdg7gxk.cloudfront.net.ico",
     "slug": "media",
     "status": "up",
     "uptime": "100.00%",
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 100,
-    "timeWeek": 88,
-    "timeMonth": 243,
-    "timeYear": 192,
+    "time": 204,
+    "timeDay": 501,
+    "timeWeek": 190,
+    "timeMonth": 269,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
