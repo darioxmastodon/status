@@ -9,6 +9,8 @@ sites:
     check: "tcp-ping"
     url: email-smtp.ap-southeast-2.amazonaws.com
     port: 587
+  - name: Relay
+    url: https://relay.dariox.club
   - name: Media
     url: http://d2xtlv1sdg7gxk.cloudfront.net
     expectedStatusCodes:
