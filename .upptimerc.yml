@@ -11,6 +11,8 @@ sites:
     port: 587
   - name: Relay
     url: https://relay.dariox.club
+  - name: FediFinder
+    url: https://finder.dariox.club
   - name: Media
     url: http://d2xtlv1sdg7gxk.cloudfront.net
     expectedStatusCodes:
