@@ -4,18 +4,19 @@
     "url": "https://dariox.club",
     "icon": "https://icons.duckduckgo.com/ip3/dariox.club.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1052,
-    "timeDay": 1180,
-    "timeWeek": 1145,
-    "timeMonth": 1181,
+    "timeDay": 1121,
+    "timeWeek": 1134,
+    "timeMonth": 1157,
     "timeYear": 1052,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2022-10-29": 20
     }
   },
@@ -33,7 +34,7 @@
     "time": 217,
     "timeDay": 220,
     "timeWeek": 199,
-    "timeMonth": 218,
+    "timeMonth": 220,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -42,18 +43,19 @@
     "url": "https://relay.dariox.club",
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
-    "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.90%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "95.97%",
     "time": 1063,
-    "timeDay": 1094,
+    "timeDay": 1082,
     "timeWeek": 1064,
-    "timeMonth": 1063,
+    "timeMonth": 1070,
     "timeYear": 1063,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2022-12-20": 533,
       "2022-12-19": 1294
     }
@@ -63,18 +65,20 @@
     "url": "https://finder.dariox.club",
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1414,
-    "timeDay": 1432,
-    "timeWeek": 1353,
-    "timeMonth": 1414,
-    "timeYear": 1414,
-    "dailyMinutesDown": {}
+    "time": 1402,
+    "timeDay": 1231,
+    "timeWeek": 1313,
+    "timeMonth": 1402,
+    "timeYear": 1402,
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "Media",
@@ -90,7 +94,7 @@
     "time": 377,
     "timeDay": 272,
     "timeWeek": 502,
-    "timeMonth": 649,
+    "timeMonth": 662,
     "timeYear": 377,
     "dailyMinutesDown": {}
   }
