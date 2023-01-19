@@ -1,7 +1,7 @@
 url: https://relay.dariox.club
-status: up
-code: 200
-responseTime: 830
-lastUpdated: 2023-01-19T14:23:06.902Z
+status: down
+code: 502
+responseTime: 1922
+lastUpdated: 2023-01-19T14:33:17.596Z
 startTime: Mon Dec 19 2022 02:25:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
