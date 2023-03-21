@@ -72,11 +72,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1449,
     "timeDay": 1115,
     "timeWeek": 1296,
@@ -93,17 +93,19 @@
     "url": "http://d2xtlv1sdg7gxk.cloudfront.net",
     "icon": "https://icons.duckduckgo.com/ip3/d2xtlv1sdg7gxk.cloudfront.net.ico",
     "slug": "media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 476,
-    "timeDay": 690,
-    "timeWeek": 664,
-    "timeMonth": 614,
-    "timeYear": 476,
-    "dailyMinutesDown": {}
+    "time": 474,
+    "timeDay": 439,
+    "timeWeek": 605,
+    "timeMonth": 599,
+    "timeYear": 474,
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   }
 ]
