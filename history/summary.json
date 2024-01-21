@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
-    "time": 1166,
-    "timeDay": 952,
-    "timeWeek": 917,
-    "timeMonth": 949,
-    "timeYear": 1193,
+    "time": 1165,
+    "timeDay": 827,
+    "timeWeek": 940,
+    "timeMonth": 943,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2023-12-13": 144,
       "2023-12-07": 27,
@@ -27,8 +27,7 @@
       "2023-04-21": 145,
       "2023-04-07": 40,
       "2023-03-23": 132,
-      "2023-02-06": 360,
-      "2023-01-21": 15
+      "2023-02-06": 360
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 206,
-    "timeWeek": 187,
+    "timeDay": 203,
+    "timeWeek": 196,
     "timeMonth": 181,
-    "timeYear": 213,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -55,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
     "status": "down",
-    "uptime": "82.12%",
+    "uptime": "81.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -64,9 +63,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1420,
+    "timeYear": 1421,
     "dailyMinutesDown": {
-      "2024-01-20": 38,
+      "2024-01-21": 42,
+      "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -145,8 +145,7 @@
       "2023-04-07": 40,
       "2023-03-23": 132,
       "2023-02-06": 359,
-      "2023-01-25": 59,
-      "2023-01-21": 877
+      "2023-01-25": 59
     }
   },
   {
@@ -155,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "down",
-    "uptime": "84.33%",
+    "uptime": "84.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.03%",
+    "uptimeYear": "82.76%",
     "time": 1472,
-    "timeDay": 1483,
-    "timeWeek": 1177,
-    "timeMonth": 1149,
-    "timeYear": 1476,
+    "timeDay": 1156,
+    "timeWeek": 1192,
+    "timeMonth": 1147,
+    "timeYear": 1475,
     "dailyMinutesDown": {
-      "2024-01-20": 38,
+      "2024-01-21": 42,
+      "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -240,8 +240,7 @@
       "2023-04-21": 143,
       "2023-04-07": 39,
       "2023-03-23": 132,
-      "2023-02-06": 358,
-      "2023-01-21": 370
+      "2023-02-06": 358
     }
   },
   {
@@ -256,9 +255,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 696,
-    "timeWeek": 430,
-    "timeMonth": 354,
+    "timeDay": 698,
+    "timeWeek": 496,
+    "timeMonth": 367,
     "timeYear": 550,
     "dailyMinutesDown": {}
   }
