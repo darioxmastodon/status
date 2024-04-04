@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2024-04-04": 856,
+      "2024-04-04": 868,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -223,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "down",
-    "uptime": "70.81%",
+    "uptime": "70.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -234,7 +234,7 @@
     "timeMonth": 1159,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2024-04-04": 856,
+      "2024-04-04": 868,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -389,19 +389,19 @@
     "url": "http://d2xtlv1sdg7gxk.cloudfront.net",
     "icon": "https://icons.duckduckgo.com/ip3/d2xtlv1sdg7gxk.cloudfront.net.ico",
     "slug": "media",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 15032,
-    "timeWeek": 4187,
-    "timeMonth": 1367,
+    "time": 590,
+    "timeDay": 10261,
+    "timeWeek": 3802,
+    "timeMonth": 1348,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 12
     }
   }
 ]
