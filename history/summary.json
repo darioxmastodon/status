@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1055,
-    "timeDay": 821,
-    "timeWeek": 944,
+    "timeDay": 1079,
+    "timeWeek": 957,
     "timeMonth": 974,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2024-11-12": 22,
       "2023-12-13": 144,
@@ -34,8 +34,8 @@
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 188,
-    "timeWeek": 178,
-    "timeMonth": 185,
+    "timeWeek": 177,
+    "timeMonth": 184,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
     "status": "up",
-    "uptime": "78.20%",
+    "uptime": "78.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.33%",
-    "uptimeYear": "60.89%",
-    "time": 1362,
-    "timeDay": 1188,
-    "timeWeek": 1013,
-    "timeMonth": 1083,
-    "timeYear": 1595,
+    "uptimeYear": "61.17%",
+    "time": 1363,
+    "timeDay": 1026,
+    "timeWeek": 1010,
+    "timeMonth": 1075,
+    "timeYear": 1593,
     "dailyMinutesDown": {
       "2024-10-21": 215,
       "2024-10-20": 81,
@@ -203,8 +203,7 @@
       "2023-11-25": 1112,
       "2023-11-24": 208,
       "2023-11-23": 1440,
-      "2023-11-22": 1440,
-      "2023-11-21": 1440
+      "2023-11-22": 1440
     }
   },
   {
@@ -213,16 +212,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "up",
-    "uptime": "53.23%",
+    "uptime": "53.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.28%",
-    "time": 1317,
-    "timeDay": 1245,
-    "timeWeek": 1114,
-    "timeMonth": 1186,
-    "timeYear": 1252,
+    "uptimeYear": "12.55%",
+    "time": 1316,
+    "timeDay": 1080,
+    "timeWeek": 1086,
+    "timeMonth": 1182,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2024-10-11": 400,
       "2024-10-10": 1440,
@@ -544,8 +543,7 @@
       "2023-11-25": 1029,
       "2023-11-24": 202,
       "2023-11-23": 1440,
-      "2023-11-22": 1440,
-      "2023-11-21": 1440
+      "2023-11-22": 1440
     }
   },
   {
@@ -560,10 +558,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
-    "timeDay": 294,
-    "timeWeek": 465,
-    "timeMonth": 419,
-    "timeYear": 513,
+    "timeDay": 253,
+    "timeWeek": 400,
+    "timeMonth": 417,
+    "timeYear": 512,
     "dailyMinutesDown": {}
   }
 ]
