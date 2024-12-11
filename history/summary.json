@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1050,
-    "timeDay": 1120,
-    "timeWeek": 965,
-    "timeMonth": 992,
-    "timeYear": 964,
+    "timeDay": 1109,
+    "timeWeek": 1004,
+    "timeMonth": 987,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2024-11-12": 22,
       "2023-12-13": 144
@@ -32,7 +32,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 203,
+    "timeDay": 201,
     "timeWeek": 171,
     "timeMonth": 177,
     "timeYear": 182,
@@ -44,14 +44,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
     "status": "up",
-    "uptime": "78.83%",
-    "uptimeDay": "96.65%",
+    "uptime": "78.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "66.34%",
+    "uptimeYear": "66.62%",
     "time": 1456,
-    "timeDay": 935,
-    "timeWeek": 941,
+    "timeDay": 1057,
+    "timeWeek": 939,
     "timeMonth": 1016,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -182,8 +182,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -192,15 +191,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "up",
-    "uptime": "54.59%",
-    "uptimeDay": "96.74%",
+    "uptime": "54.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "16.09%",
+    "uptimeYear": "16.36%",
     "time": 1301,
-    "timeDay": 3564,
-    "timeWeek": 1695,
-    "timeMonth": 1235,
+    "timeDay": 1132,
+    "timeWeek": 1694,
+    "timeMonth": 1236,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2024-12-09": 47,
@@ -507,8 +506,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -523,10 +521,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 260,
-    "timeWeek": 347,
-    "timeMonth": 389,
-    "timeYear": 513,
+    "timeDay": 658,
+    "timeWeek": 342,
+    "timeMonth": 390,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   }
 ]
