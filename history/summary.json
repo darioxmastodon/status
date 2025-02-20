@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1031,
-    "timeDay": 319,
-    "timeWeek": 1002,
-    "timeMonth": 995,
-    "timeYear": 981,
+    "time": 1011,
+    "timeDay": 1445,
+    "timeWeek": 988,
+    "timeMonth": 1004,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2025-01-04": 15,
       "2024-11-12": 22
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 141,
+    "timeDay": 150,
     "timeWeek": 174,
-    "timeMonth": 177,
+    "timeMonth": 175,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -44,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
     "status": "up",
-    "uptime": "80.68%",
+    "uptime": "80.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "85.70%",
+    "uptimeYear": "85.98%",
     "time": 1434,
-    "timeDay": 817,
-    "timeWeek": 1441,
-    "timeMonth": 1616,
+    "timeDay": 1135,
+    "timeWeek": 1431,
+    "timeMonth": 1617,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2025-02-13": 16,
@@ -117,8 +117,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
@@ -127,16 +126,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/finder.dariox.club.ico",
     "slug": "fedi-finder",
     "status": "up",
-    "uptime": "58.62%",
+    "uptime": "58.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "35.46%",
-    "time": 1198,
-    "timeDay": 1081,
-    "timeWeek": 1488,
-    "timeMonth": 1713,
-    "timeYear": 1214,
+    "uptimeYear": "35.73%",
+    "time": 1196,
+    "timeDay": 920,
+    "timeWeek": 1441,
+    "timeMonth": 1708,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-12-21": 378,
       "2024-12-14": 33,
@@ -374,8 +373,7 @@
       "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
-      "2024-02-22": 1440,
-      "2024-02-21": 1440
+      "2024-02-22": 1440
     }
   },
   {
@@ -389,10 +387,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 172,
-    "timeWeek": 469,
-    "timeMonth": 466,
+    "time": 489,
+    "timeDay": 240,
+    "timeWeek": 468,
+    "timeMonth": 454,
     "timeYear": 526,
     "dailyMinutesDown": {}
   }
