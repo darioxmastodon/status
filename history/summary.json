@@ -44,15 +44,15 @@
     "url": "https://relay.dariox.club",
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "70.93%",
+    "uptimeDay": "71.83%",
     "uptimeWeek": "89.68%",
     "uptimeMonth": "94.40%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 1095,
-    "timeDay": 925,
-    "timeWeek": 960,
+    "timeDay": 916,
+    "timeWeek": 959,
     "timeMonth": 1022,
     "timeYear": 1102,
     "dailyMinutesDown": {
@@ -104,8 +104,7 @@
       "2025-11-20": 258,
       "2025-11-19": 105,
       "2025-11-18": 19,
-      "2025-11-13": 22,
-      "2025-11-09": 15
+      "2025-11-13": 22
     }
   },
   {
@@ -117,7 +116,7 @@
     "uptime": "70.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.85%",
+    "uptimeMonth": "76.80%",
     "uptimeYear": "97.57%",
     "time": 1741,
     "timeDay": 0,
@@ -125,7 +124,7 @@
     "timeMonth": 1115,
     "timeYear": 1920,
     "dailyMinutesDown": {
-      "2026-01-26": 654,
+      "2026-01-26": 674,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
