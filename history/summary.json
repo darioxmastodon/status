@@ -12,7 +12,7 @@
     "uptimeYear": "99.90%",
     "time": 1361,
     "timeDay": 1036,
-    "timeWeek": 1055,
+    "timeWeek": 1056,
     "timeMonth": 1063,
     "timeYear": 1425,
     "dailyMinutesDown": {
@@ -37,7 +37,7 @@
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 139,
-    "timeWeek": 177,
+    "timeWeek": 174,
     "timeMonth": 178,
     "timeYear": 179,
     "dailyMinutesDown": {}
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/relay.dariox.club.ico",
     "slug": "relay",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "97.10%",
+    "uptime": "99.18%",
+    "uptimeDay": "80.75%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "97.08%",
     "time": 1071,
     "timeDay": 909,
-    "timeWeek": 948,
-    "timeMonth": 965,
+    "timeWeek": 944,
+    "timeMonth": 966,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2026-02-09": 45,
@@ -130,7 +130,7 @@
       "2026-07-10": 151,
       "2026-07-11": 63,
       "2026-07-12": 166,
-      "2026-07-13": 0
+      "2026-07-13": 111
     }
   },
   {
@@ -143,7 +143,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.82%",
+    "uptimeYear": "51.80%",
     "time": 1913,
     "timeDay": 0,
     "timeWeek": 0,
@@ -163,7 +163,7 @@
       "2025-11-21": 73,
       "2025-11-20": 257,
       "2026-01-17": 61,
-      "2026-07-13": 3,
+      "2026-07-13": 114,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -354,8 +354,8 @@
     "uptimeYear": "100.00%",
     "time": 393,
     "timeDay": 205,
-    "timeWeek": 550,
-    "timeMonth": 367,
+    "timeWeek": 574,
+    "timeMonth": 368,
     "timeYear": 340,
     "dailyMinutesDown": {}
   }
