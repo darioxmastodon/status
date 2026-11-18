@@ -1,7 +1,7 @@
 url: https://dariox.club/health
-status: up
-code: 200
-responseTime: 856
-lastUpdated: 2026-11-17T04:58:30.551Z
+status: down
+code: 502
+responseTime: 1083
+lastUpdated: 2026-11-18T04:03:06.843Z
 startTime: 2022-10-28T05:19:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
